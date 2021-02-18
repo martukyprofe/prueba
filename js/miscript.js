@@ -1,3 +1,3 @@
 'use strict'
 
-alert ("Hola mundo");
+alert ("Aquí estamos, jugando con github");
